@@ -17,34 +17,19 @@
 
 ## About
 
-<table>
-<tr>
-<td valign="top" width="55%">
+```python
+class VanshGupta:
+    def __init__(self):
+        self.name     = "Vansh Gupta"
+        self.role     = "AI/ML & Agentic AI Engineer"
+        self.college  = "IIIT Bhopal — B.Tech IT (CGPA: 8.62)"
+        self.current  = "ML Intern @ Moleculyst (Video LLMs)"
+        self.focus    = ["LLMs", "VLMs", "GenAI", "Agentic AI", "RL"]
+        self.location = "Bhopal, Madhya Pradesh, India"
 
-**Vansh Gupta** — AI/ML & Agentic AI engineer focused on building systems that go beyond demos and ship to production.
-
-Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs and multimodal AI pipelines. My work spans LLMs, VLMs, Agentic AI, GenAI, and RL environments.
-
-| | |
-|---|---|
-| **Degree** | B.Tech Information Technology — IIIT Bhopal |
-| **CGPA** | 8.62 / 10 |
-| **Role** | ML Intern @ Moleculyst (Video LLMs) |
-| **Focus** | LLMs · VLMs · GenAI · Agentic AI · RL |
-| **Location** | Bhopal, Madhya Pradesh, India |
-
-</td>
-<td valign="top" width="45%">
-
-<div align="center">
-
-![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,fastapi,firebase,git,cpp,opencv,linux,github&perline=6)
-
-</div>
-
-</td>
-</tr>
-</table>
+    def mission(self):
+        return "Complexity is easy. Shipping something that works — that's the real work."
+```
 
 ---
 
@@ -54,8 +39,6 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 
 **AI / ML**
 
-![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=8)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -63,11 +46,7 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-<br/>
-
 **GenAI & Agentic AI**
-
-![skills](https://skillicons.dev/icons?i=openai&perline=8)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -75,11 +54,7 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-<br/>
-
 **Infrastructure**
-
-![skills](https://skillicons.dev/icons?i=docker,aws,fastapi,firebase,git&perline=8)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -88,11 +63,7 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-<br/>
-
 **Languages**
-
-![skills](https://skillicons.dev/icons?i=python,cpp,c&perline=8)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -105,9 +76,9 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 
 ## Projects
 
-Browse all my work on GitHub — [github.com/vansh7266](https://github.com/vansh7266?tab=repositories)
+Browse all work → [github.com/vansh7266](https://github.com/vansh7266?tab=repositories)
 
-Key repositories pinned below. Highlights include **Moleculyst Studio** (Agentic AI image editing), **TriageAI** (Email RL environment — Meta × PyTorch Hackathon Finalist), **PharmAI** (pharmaceutical ML with >90% accuracy), and **AuctionX** (real-time auction platform).
+Key highlights: **Moleculyst Studio** (Agentic AI image editing), **TriageAI** (Email RL environment — Meta × PyTorch Hackathon Finalist), **PharmAI** (pharmaceutical ML, >90% accuracy), **AuctionX** (real-time auction platform).
 
 ---
 
@@ -148,8 +119,6 @@ ML Intern @ Moleculyst                                           Feb 2026 – Pr
 ---
 
 <div align="center">
-
-*"Complexity is easy. Shipping something that works — that's the real work."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d3bcc,100:000000&height=110&section=footer" width="100%"/>
 
