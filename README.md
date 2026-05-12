@@ -54,6 +54,8 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 
 **AI / ML**
 
+![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=8)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -61,7 +63,11 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+<br/>
+
 **GenAI & Agentic AI**
+
+![skills](https://skillicons.dev/icons?i=openai&perline=8)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -69,7 +75,11 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
+<br/>
+
 **Infrastructure**
+
+![skills](https://skillicons.dev/icons?i=docker,aws,fastapi,firebase,git&perline=8)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -78,7 +88,11 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
+<br/>
+
 **Languages**
+
+![skills](https://skillicons.dev/icons?i=python,cpp,c&perline=8)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -91,13 +105,9 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 
 ## Projects
 
-| Project | Stack | Highlight |
-|---|---|---|
-| **[Moleculyst Studio](https://github.com/vansh7266)** — Agentic AI Image Editing | Gemini API · VLMs · OpenCV · Docker | Multi-step plan → target → critique pipeline with real-time streaming |
-| **[TriageAI](https://github.com/vansh7266/email_triage_env)** — Email RL Environment | FastAPI · Pydantic · OpenEnv · Docker | Meta × PyTorch Hackathon Finalist; LLaMA 3.1 agent @ 0.71 avg score |
-| **[PharmAI](https://github.com/vansh7266/pharmai)** — Manufacturing Intelligence | LSTM · XGBoost · SHAP | >90% batch quality prediction accuracy |
-| **[AuctionX](https://github.com/vansh7266)** — Real-Time Auction Platform | Firebase · JavaScript | Sub-100ms sync, proxy auto-bidding & credit-lock system |
-| **[Google Solution Challenge 2026](https://github.com/vansh7266/google-solution-challenge-2026)** | HTML · GenAI | Selected for Google Solution Challenge 2026 |
+Browse all my work on GitHub — [github.com/vansh7266](https://github.com/vansh7266?tab=repositories)
+
+Key repositories pinned below. Highlights include **Moleculyst Studio** (Agentic AI image editing), **TriageAI** (Email RL environment — Meta × PyTorch Hackathon Finalist), **PharmAI** (pharmaceutical ML with >90% accuracy), and **AuctionX** (real-time auction platform).
 
 ---
 
@@ -119,9 +129,7 @@ Currently working as **ML Intern at Moleculyst**, experimenting with Video LLMs 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh7266&layout=compact&theme=github_dark&hide_border=true&title_color=4d94ff&text_color=c9d1d9&langs_count=8"/>
-&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=vansh7266&theme=github-dark-blue&hide_border=true&stroke=1a6dff&ring=4d94ff&fire=4d94ff&currStreakLabel=4d94ff"/>
+<img src="https://streak-stats.demolab.com?user=vansh7266&theme=github-dark-blue&hide_border=true&stroke=1a6dff&ring=4d94ff&fire=4d94ff&currStreakLabel=4d94ff" height="160"/>
 
 </div>
 
@@ -141,7 +149,7 @@ ML Intern @ Moleculyst                                           Feb 2026 – Pr
 
 <div align="center">
 
-*"The best AI systems aren't just intelligent — they're useful."*
+*"Complexity is easy. Shipping something that works — that's the real work."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d3bcc,100:000000&height=110&section=footer" width="100%"/>
 
