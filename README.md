@@ -4,7 +4,6 @@
 *3rd Year IT @ IIIT Bhopal • Ex-ML Intern @ Moleculyst • Meta × PyTorch Hackathon Grand Finalist*
 
 <p align="left">
-  <a href="https://vanshportfolio12.netlify.app"><img src="https://img.shields.io/badge/Live_Portfolio-vanshportfolio12.netlify.app-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/vansh-2977g/"><img src="https://img.shields.io/badge/LinkedIn-Vansh_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/vansh7266"><img src="https://img.shields.io/badge/HuggingFace-vansh7266-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" /></a>
   <a href="https://www.codechef.com/users/vansh7266"><img src="https://img.shields.io/badge/CodeChef-4★_1856-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
